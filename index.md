@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Hello World! 👋 I am Pranjal Shikhar Sinha!! 😈
 
-You can use the [editor on GitHub](https://github.com/pranjalshikhar/pranjalshikhar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- :computer: I code using Python
+- 🌱 I’m currently studying at AMITY UNIVERSITY, LUCKNOW CAMPUS.
+- 🗣 I’m also the fond of Data Science Community.
+- 🤔 I’m looking for help with Data [Science, Structures, Base].
+- 👯 I'm also open for collaborations related to project/community.
+- 📫 How to reach me: [shikhar.pranjal3@gmail.com](shikhar.pranjal3@gmail.com)
+- 😄 Pronouns: He/His
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&show_icons=true&title_color=ffffff&icon_color=ff1616&text_color=ffde59&bg_color=000000">
+</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranjalshikhar/pranjalshikhar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<hr>
+<p align="center">
+  <i>You can connect with me here!</i>
+  <p align="center">
+    <a href="https://twitter.com/pranjalshikhar/" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+    <a href="https://www.linkedin.com/in/pranjalshikhar/" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/pranjalshikhar/" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+  </p>
+</p>

@@ -10,7 +10,7 @@ I am <u><b>AKASH</b></u>, people call me <i>Byomkesh Baksie</i>, currently pursu
 
 ![](https://visitor-badge.glitch.me/badge?page_id=byomkeshbaksie.byomkeshbaksie)
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif?raw=true" width="500" height="320" />
   
 **Languages and Tools:**  
 

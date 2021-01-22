@@ -33,8 +33,8 @@ I am <u><b>AKASH</b></u>, people call me <i>Byomkesh Baksie</i>, currently pursu
 [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=byomkeshbaksie&theme=dracula)](https://github.com/byomkeshbaksie/github-readme-activity-graph)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=byomkeshbaksie&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byomkeshbaksie&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=byomkeshbaksie&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byomkeshbaksie&hide=TeX&layout=compact&theme=tokyonight)
 
 
 **If you liked my work, don’t forget to ⭐ star the repo to show your support.**

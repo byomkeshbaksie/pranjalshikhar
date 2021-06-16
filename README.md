@@ -10,7 +10,7 @@ I am <u><b>AKASH</b></u>, people call me <i>Byomkesh Baksie</i>, currently pursu
 
 ![](https://visitor-badge.glitch.me/badge?page_id=byomkeshbaksie.byomkeshbaksie)
 
-<img align="center" alt="GIF" src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" width="800" height="370" />
+<img align="center" alt="GIF" src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" width="1000" height="370" />
   
 **Languages and Tools:**  
 
